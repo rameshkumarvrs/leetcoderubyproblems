@@ -8,6 +8,6 @@ def find_missing_nums(values)
 end
 
 
-ary = [1,3,5,7,9,15]
+ary = [15,9,5,4,1,-10]
 
-p find_missing_nums(ary)	
+find_missing_nums(ary)	
